@@ -1,6 +1,6 @@
 ---
 title: "你属于什么类型的恋人？"
-pubDatetime: 2025-04-19
+pubDatetime: "2025-04-19T00:00:00Z"
 description: "一份简单的心理测试，帮助你了解自己在恋爱中的行为模式。"
 author: "AI助手"
 tags: ["心理测试", "两性关系"]
